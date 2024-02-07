@@ -1,0 +1,19 @@
+ex01
+
+printf ? pourquoi faire.
+
+A)
+	Ecrire un programme nommé 'do_opp' qui s'occupe de faire des maths. Il faut que quand tu run do_opp,
+	il retourne le résultat. Tu devras gérer "+ - * /". Le programme ne doit pas crash évidament.
+	Tu dois juste gerer les nombres entiers. Tu n'as PAS le droit d'utiliser printf cette fois.
+	ex : "./do_opp 2 * 2" doit printer dans le terminal 4. "./do_opp 5 - 2" doit print 3. 
+	
+		-->qu'est ce qu'il se passe quand tu divise par 0 ou que ton nombre est plus grand que 2147483647 ?
+
+B)
+	Ecrire une script qui teste toutes les operation de ton programme.T'es libres de choisir tes tests.
+	ex : "sh tester.sh do_op" me donne "1 + 1 = 2\n1* 1 = 1..."
+
+	rendre le source, l'executable et le script dans le dossier sans utiliser une archive .zip. 
+	
+		--> aide : git push, man write, man interger.
