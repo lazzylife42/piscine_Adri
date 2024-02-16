@@ -1,0 +1,4 @@
+b) dessiner un carre sans qu'il soit remplis.
+c) un triangle et un cercle et d'autres formes si tu veux.
+
+bonus) pareil que b et c mais qu'on puisse changer la taille avec argc argv.
